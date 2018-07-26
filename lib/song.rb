@@ -23,5 +23,5 @@ class Song
     self.artist = artiste #assign the song(self -> song instance) to the artist
     artiste.add_song(self) #artiste is the artist instance, collaborate with the `Artist` class by calling on the `Artist#add_song(some_song)` method.
   end
-
+_FILE_
 end
