@@ -24,5 +24,4 @@ class Song
     artiste.add_song(self) #artiste is the artist instance, collaborate with the `Artist` class by calling on the `Artist#add_song(some_song)` method.
   end
 
-puts "hi"
 end
